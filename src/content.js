@@ -6,11 +6,11 @@ const siteContent = {
   location: "Roseville, CA",
 
   address: {
-    street: "780 Pleasant Grove Blvd",
-    suite: "Suite 200",
-    city: "Roseville, CA 95678",
+    street: "1234 Roseville Rd.",
+    suite: "",
+    city: "Roseville, CA 95747",
   },
-  phone: "(916) 555-0287",
+  phone: "(916) 832-0195",
   email: "hello@rosevilleslice.com",
 
   hours: [
